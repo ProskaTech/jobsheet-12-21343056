@@ -2,7 +2,7 @@
 
 // Created by 21343056_Muhammad Asyrof
 
-  Pada pembelajaran Praktikum Pemrograman Berorientasi Objek di pertemuan ke-11 ini saya mempelajari mengenai cara mendeskripsikan serta memahami lebih jauh terkait sistem pemrograman berorientasi objek / OOPs (object-oriented programming system), object dan class dan mendeskripsikan juga memahami lebih jauh terkait prinsip pemrograman berorientasi objek yakni inheritance, polymorphism, abstraction dan encapsulation.
+  Pada pembelajaran Praktikum Pemrograman Berorientasi Objek di pertemuan ke-12 ini saya mempelajari mengenai cara mendeskripsikan serta memahami lebih jauh terkait sistem pemrograman berorientasi objek / OOPs (object-oriented programming system), object dan class dan mendeskripsikan juga memahami lebih jauh terkait prinsip pemrograman berorientasi objek yakni inheritance, polymorphism, abstraction dan encapsulation.
   
 Objek dapat didefinisikan sebagai bidang data yang memiliki atribut dan perilaku unik. OOP berfokus pada objek yang ingin dimanipulasi oleh programmer daripada logika yang diperlukan untuk memanipulasinya. Pendekatan pemrograman ini sangat cocok untuk program yang besar, kompleks dan aktif diperbarui secara terus menerus.
 
