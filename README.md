@@ -1,6 +1,15 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9316072&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## === Praktikum Pemrograman Berorientasi Objek (Pertemuan ke-12)===
+
+// Created by 21343056_Muhammad Asyrof
+
+  Pada pembelajaran Praktikum Pemrograman Berorientasi Objek di pertemuan ke-12 ini saya mempelajari mengenai cara mendeskripsikan serta memahami lebih jauh terkait sistem pemrograman berorientasi objek / OOPs (object-oriented programming system), object dan class dan mendeskripsikan juga memahami lebih jauh terkait prinsip pemrograman berorientasi objek yakni inheritance, polymorphism, abstraction dan encapsulation.
+  
+Objek dapat didefinisikan sebagai bidang data yang memiliki atribut dan perilaku unik. OOP berfokus pada objek yang ingin dimanipulasi oleh programmer daripada logika yang diperlukan untuk memanipulasinya. Pendekatan pemrograman ini sangat cocok untuk program yang besar, kompleks dan aktif diperbarui secara terus menerus.
+
+Prinsip inheritance pada OOP adalah di mana kita dapat membentuk class baru yang “mewarisi” atau memiliki bagian-bagian dari class yang sudah ada sebelumnya. Konsep ini menggunakan sistem hirarki atau bertingkat.
+
+Prinsip polymorphism pada OOP adalah konsep di mana suatu objek berbedabeda dapat diakses melalui satu interface. Sebuah objek polymorphic dapat beradaptasi dengan metode apapun yang diimplementasikan pada objek tersebut, dan setiap class memiliki interpretasinya tersendiri terhadap interfacenya. Terdapat 2 jenis polymorphism yaitu Static Polymorphism dan Dynamic Polymorphism.
+
+Abstraction adalah Proses untuk menyembunyikan detail implementasi dan hanya sisi fungsionalitas (gambaran umum) saja yang ditampilkan. Abstraction di java terbagi menjadi dua yaitu class abstract dan interface.
+
+Encapsulation pada OOP adalah konsep tentang pengikatan data atau metode berbeda yang disatukan atau “dikapsulkan” menjadi satu unit data. Encapsulation dapat memudahkan dalam pembacaan kode karena informasi yang disajikan tidak perlu dibaca secara rinci dan sudah merupakan satu kesatuan. Encapsulation juga sering digunakan karena terdapat fitur information-hiding mechanism. Mekanisme ini menghilangkan akses publik ke atribut-atribut yang terdapat di dalam “kapsul” tersebut.
